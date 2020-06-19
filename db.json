@@ -1,0 +1,25 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "name": "jose alberto",
+      "grado": "6to"
+    }
+  ],
+  "animales": [
+    {
+      "id": 2,
+      "name": "Peluchon",
+      "tipoanimal": "Perro",
+      "peligroso": "no/si",
+      "raza": "chihuhua"
+    },
+    {
+      "id": 3,
+      "name": "scrapy",
+      "tipoanimal": "perro",
+      "peligroso": "si/no",
+      "raza": "boxer"
+    }
+  ]
+}
